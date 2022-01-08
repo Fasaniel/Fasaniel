@@ -1,6 +1,6 @@
 - 🪶  Hi, I’m @Fasaniel
 - 🔧  I’m interested in 3D Printing and arduino programming
-- 🌱 I’m currently learning everythingä
+- 🌱 I’m currently learning everything
 - if u have any questions about my work pls contact me on my email: fasaniel@gmx.at
 
 <!---
